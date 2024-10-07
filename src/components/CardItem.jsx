@@ -3,36 +3,6 @@ import productsData from '../productsData'
 
 const CardItem = (props) => {
 
-  // const [price, setPrice] = useState(0)
-  // const [amount, setAmount] = useState(props.amount)
-
-
-  // const handlePrice = () => {
-  //   let ans = 0;
-  //   ans += amount * props.price
-  //   setPrice(ans)
-  // }
-
-  // const handleAmount = (amount) => {
-  //    let defaultAmount = amount;
-  //    defaultAmount += 1;
-  //    setAmount(defaultAmount)
-  // }
-
-  // const handleDecrease = (amount) => {
-  //   let defaultAmount = amount;
-  //    defaultAmount -= 1;
-  //    setAmount(defaultAmount)
-  // }
-
-
-  // useEffect (() => {
-  //   handlePrice()
-  // })
-
-
-
-
 
   return (
     <div className='bg-white bg-opacity-70 w-2/3 h-2/5 rounded-xl flex ml-6 mb-6 p-6 shadow-md'>
